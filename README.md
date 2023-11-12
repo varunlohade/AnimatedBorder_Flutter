@@ -1,4 +1,10 @@
 # Demo
 If you want to change the rotation speed and effect you can tinker around with trigonometric functions
-Uploading Screen Recording 2023-11-12 at 2.45.34 PM.mov…
+
+
+
+
+
+
+https://github.com/varunlohade/AnimatedBorder_Flutter/assets/50517140/a1cc5fa3-45da-4a00-8e9a-eb7dbbc1ed71
 
